@@ -16,7 +16,7 @@
 
 五位人物各有独立文件夹；27 张人物原照及含原照裁切的输入拼图未随公开版发布，后续校准相貌时需另行提供。
 
-蜜蜜的身形设定为修长纤细的双腿；新增站姿照支持纤细方向，但不能用于精确尺寸标定。人物卡与提示词已修订 v3，图像生成因额度用完未完成；v2 图中相貌待校准，颈部以下仍作身体基准。
+蜜蜜的身形设定为修长纤细的双腿；新增站姿照支持纤细方向，但不能用于精确尺寸标定。人物卡及面部、全身参考已修订 v3；相貌以原照与面部 v3 校准，颈部以下仍以全身 v2 固定体型。
 
 ## 已生成人物参考图
 
@@ -24,7 +24,7 @@
 - 鹿儿：[全身四视图](B-luer/full-body-views.png)、[面部三视图](B-luer/face-views.png)。
 - 蓉儿：[全身四视图](C-ronger/full-body-views.png)、[面部三视图](C-ronger/face-views.png)。
 - 羊羊子 v2：[齐肩短发全身四视图](D-yangyangzi/full-body-views-v2.png)、[长短双发型面部六视图](D-yangyangzi/face-views-v2.png)；旧版在人物特征卡中保留。
-- 蜜蜜：[v3 人物卡](E-mimi/profile.md)、[v3 待执行提示词](E-mimi/prompts-v3.md)；[全身四视图 v2](E-mimi/full-body-views-v2.png)只作身体基准，[面部六视图 v2](E-mimi/face-views-v2.png)为相貌待校准的历史图，尚无 v3 成图。
+- 蜜蜜 v3：[人物卡](E-mimi/profile.md)、[面部六视图](E-mimi/face-views-v3.png)、[全身四视图](E-mimi/full-body-views-v3.png)、[制作提示词](E-mimi/prompts-v3.md)；[全身 v2](E-mimi/full-body-views-v2.png)继续用作颈部以下身体比例基准。
 
 鹿儿的可爱、听话为用户给虚拟角色的性格设定。人物气质通过表情、姿态和服装表达，不从照片推断真实性格。
 

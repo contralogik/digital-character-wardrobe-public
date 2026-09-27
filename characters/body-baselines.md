@@ -12,7 +12,7 @@
 | B · 鹿儿 | 172 cm | D 杯 | 自然偏窄，柔和肩线 | 自然收束的腰线与柔和胯部体量；四肢修长，不额外增强胸腰差 | [四视图](B-luer/full-body-views.png) |
 | C · 蓉儿 | 168 cm | C 杯 | 自然中等偏窄，柔和肩线 | 腰胯自然过渡，腿部保留真实体量；不因成熟风格额外扩胯 | [四视图](C-ronger/full-body-views.png) |
 | D · 羊羊子 | 165 cm | F 杯 | 自然偏窄，纤细肩颈 | 胸部保持专属基准图体量；腰胯与完整腿型沿用 v2 虚拟补全，不随束身衣或魅惑风格重塑 | [四视图 v2](D-yangyangzi/full-body-views-v2.png) |
-| E · 蜜蜜 | 166 cm | D 杯 | 自然偏窄，纤细肩颈与手臂 | 修长纤细双腿按用户设定保留；腰胯沿用 v2 虚拟补全，不因裙装遮挡另造比例；v3 更新面部文字，身体不改 | [四视图 v2 · 颈部以下基准，脸待校准](E-mimi/full-body-views-v2.png) |
+| E · 蜜蜜 | 166 cm | D 杯 | 自然偏窄，纤细肩颈与手臂 | 修长纤细双腿按用户设定保留；腰胯沿用 v2 虚拟补全，不因裙装遮挡另造比例；v3 更新面部与发型 | [四视图 v2 · 颈部以下基准](E-mimi/full-body-views-v2.png)；[四视图 v3 · 新脸参考](E-mimi/full-body-views-v3.png) |
 
 各人的最新相貌与发型分别见：[欣然](A-xinran/profile.md)、[鹿儿](B-luer/profile.md)、[蓉儿](C-ronger/profile.md)、[羊羊子](D-yangyangzi/profile.md)、[蜜蜜](E-mimi/profile.md)。
 
