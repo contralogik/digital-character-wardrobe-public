@@ -1,0 +1,37 @@
+# 鹿儿人物参考图提示词
+
+生成方式：内置 imagegen，非 CLI。
+
+## 1. 全身四视图
+
+```text
+Use case: photorealistic-natural.
+Asset type: full-body character turnaround reference sheet for future clothing try-on.
+Primary request: Create one high resolution wide sheet with four equal vertical panels showing the SAME adult woman from these three supplied photographs: true front view, 45-degree three-quarter view, true 90-degree side profile, and straight back view. Four views of one person, all clearly photorealistic.
+Input images: Images 1, 2 and 3 are the original appearance references of this woman, character B / Luer. Use only this woman's facial likeness and natural body proportions as the identity anchor. Image 1 supplies her full-body silhouette; images 2 and 3 supply the finer face shape, eyes, nose, lips and shoulders. Their hairstyles vary; use the consistent hairstyle specified below. Retain her adult age appearance.
+User-supplied character details: height 172 cm, D-cup wardrobe sizing, hair deliberately lighter than the dark hair seen in the original photographs. Use a natural lighter warm chestnut brown, with subtle warm brown highlights and a slightly darker root, not blond, orange or gray. Her character is sweet, gentle and agreeable: express a calm approachable look with a tiny relaxed closed-mouth smile, while retaining the exact adult face structure.
+Appearance: soft small oval face, softly full cheeks and delicate narrowing jaw with small rounded chin; fairly large rounded-almond dark eyes, gentle natural brows with a restrained low arch, delicate straight narrow nose with small rounded tip, natural rosy lips with a defined cupid's bow and slightly fuller lower lip. Light neutral-warm skin with real photographic skin texture. Long chestnut-brown hair gathered into a simple high bun with airy wispy forehead bangs and face-framing strands, identical in every panel, matching the silhouette visible in images 1 and 3 but using the requested lighter color. Keep the ears and jaw outline reasonably visible.
+Body: tall adult stature, slender shoulders and limbs, natural fullness through bust and hips, defined waist, retain realistic proportions visible in the references. D-cup is user-supplied wardrobe context, not an instruction to enlarge the bust. Preserve normal limb lengths. Do not exaggerate curves or alter body weight. Do not enlarge eyes or give a childlike appearance.
+Wardrobe: identical fully opaque plain cream fitted short-sleeve crew-neck knit top, matte charcoal-gray fitted full-length trousers, simple flat shoes in every view. Appropriate neutral fashion fitting clothes; no jewelry, phone, handbag or other props.
+Composition and pose: full body visible including head and feet, all views same scale, same floor baseline, comfortable margins. Straight relaxed neutral stance with level shoulders, head aligned with torso, arms hanging naturally slightly away from waist. Feet comfortably aligned, no crossed legs or tilted hips. In the front view head and torso point straight toward camera; in the 45-degree view head and torso rotate together; in the true side view head, body and feet face exactly the same side with no glance back. Straight back view facing away.
+Backdrop and lighting: seamless light warm-gray studio background, diffuse soft balanced studio lighting, understated natural floor shadows. Low-distortion long portrait lens view. Real skin pores, believable anatomy and knit fabric texture, subtle natural makeup, no heavy smoothing.
+Text: small neat labels below the panels, exactly "正面", "45°", "侧面", "背面", in that order. No additional text.
+Constraints: faithfully preserve the reference individual's facial feature spacing, face shape and natural body proportions across all panels. The intentional hair-color change is allowed; keep hairstyle and shade the same in all panels. No cartoon or 3D rendering, exaggerated bust, pinched waist, artificially long legs, childlike styling, lingerie, bikini, dramatic seductive posing, watermark, logos, extra people, cropped feet or anatomical errors.
+```
+
+## 2. 面部三视图
+
+```text
+Use case: photorealistic-natural.
+Asset type: facial identity reference sheet for character B / Luer, future clothing try-on.
+Primary request: Create a high-resolution wide triptych with true straight front, three-quarter 45-degree, and true 90-degree side photographic portraits of the same adult woman in the supplied original photographs. Preserve her exact personal face shape and facial feature spacing rather than a generic model face.
+Input images: Images 1, 2 and 3 are the original photographs of Luer. Use the facial features visible in them as the strongest identity source. Image 2 is the larger face detail reference, image 3 shows her face and the high bun with airy wispy bangs; image 1 adds proportions. Image 4 is the generated full-body sheet; use it for consistent lighter chestnut hair color, high bun hairstyle, cream crew-neck clothing, background and lighting. Its generated facial details are secondary to the originals.
+Face details: soft small oval face, softly full cheek contours, narrowing delicate lower jaw and small rounded chin. Fairly large rounded-almond dark eyes with natural spacing and a fine subtle eyeliner, medium-fine natural dark brows with a low gentle arch, straight delicate narrow nose with small rounded tip, rosy lips with visible cupid's bow and slightly fuller lower lip. Her nose, eyes, mouth and chin must look like the reference woman in each angle. Maintain her clearly adult age appearance and natural facial proportions.
+Hair: intentionally changed per user request to a lighter natural warm chestnut brown with restrained warm-brown highlights and slightly deeper roots. Match the shade and high-bun silhouette of image 4. Thin airy forehead bangs, near-center part, soft longer face-framing wisps. Keep the face, ears and profile silhouette legible. Same hairstyle in every panel.
+Expression and character: the user defines this fictional character as sweet, gentle and agreeable. Show this through a tiny soft closed-mouth smile and relaxed approachable expression. Preserve natural adult facial structure, avoid over-enlarged eyes, excessively round baby-like features, costume stereotypes or childish styling.
+Clothing: fully opaque plain cream crew-neck knit top, same as the full-body sheet, no jewelry, earrings or props.
+Composition: equal portrait panels, head-and-shoulders framing with the entire bun and hair visible, same head scale and matched eye-line. Front view head and shoulders face the camera straight on, eyes toward camera. Three-quarter portrait head and shoulders rotate together about 45 degrees. True side portrait shows head and shoulders fully at 90 degrees with gaze straight forward in the direction of the profile, no glance back.
+Lighting and photographic style: seamless very light warm-gray studio backdrop, balanced soft diffuse studio light, realistic light neutral-warm skin, subtle pores and fine texture, low-distortion portrait lens, natural light makeup, no excessive retouching or artificial symmetry.
+Text: one neat small label below each portrait, exactly "正面", "45°", "侧面", in that order. No additional text.
+Constraints: same individual, expression, hair shade, hairstyle, clothes, lighting and age appearance across all three views. Preserve the source face. No cartoon, 3D rendering, glasses, phone, accessories, watermarks, logos, extra faces, exaggerated facial features or cropped bun.
+```

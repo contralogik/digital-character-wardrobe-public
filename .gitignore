@@ -1,0 +1,6 @@
+original-photos/
+references/
+studio-v1-inputs/
+run-state.json
+record-v*.json
+*.ps1
