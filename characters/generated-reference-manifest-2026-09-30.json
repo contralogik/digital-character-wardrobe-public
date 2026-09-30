@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-30",
+  "assets": [
+    {
+      "path": "characters/A-xinran/face-views-v2.png",
+      "sha256": "edf2ed75b46aaee0ad7c872b222e66c8fc8839ebf1cdc512f58e7515ffb23c25",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2224414
+    },
+    {
+      "path": "characters/A-xinran/full-body-views-v2.png",
+      "sha256": "9155f945dc15ae5c38852103c1bdf3b5565e5327c5f944d89801de45011e50e9",
+      "width": 1433,
+      "height": 1098,
+      "bytes": 1747000
+    },
+    {
+      "path": "characters/B-luer/face-views-v2.png",
+      "sha256": "09337a17575671105c008ea3e30f0d7d346ebc355d6d519ae6b9fa641e911337",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2461960
+    },
+    {
+      "path": "characters/B-luer/full-body-views-v2.png",
+      "sha256": "e267ff260eba18813a43a9714f34209238029bdf44f923c842028f4363157897",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1937269
+    },
+    {
+      "path": "characters/C-ronger/face-views-v2.png",
+      "sha256": "a1aba4370e2a5e3e8e24d521f33735ce1684189f846dc79175f567f7daa711ef",
+      "width": 1882,
+      "height": 836,
+      "bytes": 2498145
+    },
+    {
+      "path": "characters/C-ronger/full-body-views-v2.png",
+      "sha256": "387d313058b8f0834eb6c0cc52cfcdd2313816fb261ff58e19e3590da68a9131",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1948745
+    },
+    {
+      "path": "characters/D-yangyangzi/face-views-v3.png",
+      "sha256": "fef6af8c0ff4f26959f2f3ee20695d11b57bbe481de5a7aecd102d3239d9f3f9",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2204392
+    },
+    {
+      "path": "characters/D-yangyangzi/full-body-views-v3.png",
+      "sha256": "94e352eb329ccadba8821eff0e54aa3b2d8ea2051729357b9f3097c6d5946adb",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1886074
+    },
+    {
+      "path": "characters/E-mimi/face-views-v7.png",
+      "sha256": "1b7f11ad60825bf175d47fdf507c66a647c02733a8bd724d06b653248bdb767e",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2592927
+    },
+    {
+      "path": "characters/E-mimi/full-body-views-v7.png",
+      "sha256": "08a3128975724f909b6ce94f6784f90afa106af27ebec1e8b6460abf162be6e9",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1885494
+    }
+  ],
+  "source_materials_included": false
+}

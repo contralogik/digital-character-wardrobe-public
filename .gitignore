@@ -4,3 +4,14 @@ studio-v1-inputs/
 run-state.json
 record-v*.json
 *.ps1
+
+# Private source material and working inputs
+.codex-remote-attachments/
+drafts/
+reference-history/
+*-inputs/
+reference-review*.md
+reference-refresh-*-manifest.json
+*.jpg
+*.jpeg
+*.webp

@@ -1,3 +1,5 @@
+> 历史制作记录。当前版本见[蜜蜜 v7 提示词](prompts-v7.md)与[人物卡](profile.md)。
+
 # 蜜蜜人物参考图提示词
 
 生成方式：内置 imagegen，非 CLI。

@@ -1,3 +1,5 @@
+> 历史制作记录。当前版本见[鹿儿 v2 提示词](prompts-v2.md)与[人物卡](profile.md)。
+
 # 鹿儿人物参考图提示词
 
 生成方式：内置 imagegen，非 CLI。

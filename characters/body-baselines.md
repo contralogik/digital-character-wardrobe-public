@@ -6,13 +6,15 @@
 
 身高和杯型来自用户设定；下表的肩线、腰胯与腿部方向是虚拟角色的工作设定。指定全身图包含生成补全，用于维持形体一致性，不作为真人精确尺寸资料。
 
-| 人物 | 身高设定 | 杯型背景 | 肩宽与肩线方向 | 腰胯与腿部方向 | 指定全身基准图 |
+| 人物 | 身高 | 杯型背景 | 身形方向 | 颈部以下指定基准 | 最新面部与同步全身图 |
 | --- | --- | --- | --- | --- | --- |
-| A · 欣然 | 178 cm | E 杯 | 自然偏窄，平缓肩线，修长肩颈 | 清晰但自然的腰线，柔和腰胯曲线；大腿有自然体量，小腿较纤细，整体高挑 | [四视图](A-xinran/full-body-views.png) |
-| B · 鹿儿 | 172 cm | D 杯 | 自然偏窄，柔和肩线 | 自然收束的腰线与柔和胯部体量；四肢修长，不额外增强胸腰差 | [四视图](B-luer/full-body-views.png) |
-| C · 蓉儿 | 168 cm | C 杯 | 自然中等偏窄，柔和肩线 | 腰胯自然过渡，腿部保留真实体量；不因成熟风格额外扩胯 | [四视图](C-ronger/full-body-views.png) |
-| D · 羊羊子 | 165 cm | F 杯 | 自然偏窄，纤细肩颈 | 胸部保持专属基准图体量；腰胯与完整腿型沿用 v2 虚拟补全，不随束身衣或魅惑风格重塑 | [四视图 v2](D-yangyangzi/full-body-views-v2.png) |
-| E · 蜜蜜 | 166 cm | D 杯 | 自然偏窄，纤细肩颈与手臂 | 修长纤细双腿按用户设定保留；腰胯沿用 v2 虚拟补全，不因裙装遮挡另造比例；v3 更新面部与发型 | [四视图 v2 · 颈部以下基准](E-mimi/full-body-views-v2.png)；[四视图 v3 · 新脸参考](E-mimi/full-body-views-v3.png) |
+| A · 欣然 | 178 cm | E 杯 | 自然偏窄、平缓肩线，修长肩颈；柔和腰胯，大腿有自然体量、小腿纤细 | [全身 v1](A-xinran/full-body-views.png) | [面部 v2](A-xinran/face-views-v2.png)、[全身 v2](A-xinran/full-body-views-v2.png) |
+| B · 鹿儿 | 172 cm | D 杯 | 自然偏窄、柔和肩线；腰线自然收束、胯部柔和、四肢修长，不额外增强胸腰差 | [全身 v1](B-luer/full-body-views.png) | [面部 v2](B-luer/face-views-v2.png)、[全身 v2](B-luer/full-body-views-v2.png) |
+| C · 蓉儿 | 168 cm | C 杯 | 自然中等偏窄、柔和肩线；腰胯自然过渡、腿部保留真实体量，不额外扩胯 | [全身 v1](C-ronger/full-body-views.png) | [面部 v2](C-ronger/face-views-v2.png)、[全身 v2](C-ronger/full-body-views-v2.png) |
+| D · 羊羊子 | 165 cm | F 杯 | 自然偏窄、纤细肩颈，胸部保持专属体量；腰胯与完整腿型沿用 v2 | [全身 v2](D-yangyangzi/full-body-views-v2.png) | [面部 v3](D-yangyangzi/face-views-v3.png)、[全身 v3](D-yangyangzi/full-body-views-v3.png) |
+| E · 蜜蜜 | 166 cm | D 杯 | 自然偏窄、纤细肩颈手臂；**腿细直**，修长纤细、自然顺直，保留膝盖与小腿体量；腰胯与腿长比例沿用 v2 | [全身 v2](E-mimi/full-body-views-v2.png) | [六宫格 v7](E-mimi/face-views-v7.png)、[全身 v7](E-mimi/full-body-views-v7.png) |
+
+2026-09-30 完成五人的面部与全身参考更新。最新全身图同步新脸、发型和妆容；本轮没有重新设计四人的身体结构，蜜蜜补充用户明确的“腿细直”外观方向。二维重生成存在细节差别，如新全身图与原身体基准不一致，颈部以下回到指定基准校准；旧脸、旧头发不覆盖新面部。
 
 各人的最新相貌与发型分别见：[欣然](A-xinran/profile.md)、[鹿儿](B-luer/profile.md)、[蓉儿](C-ronger/profile.md)、[羊羊子](D-yangyangzi/profile.md)、[蜜蜜](E-mimi/profile.md)。
 

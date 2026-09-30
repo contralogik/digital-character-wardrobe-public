@@ -1,3 +1,5 @@
+> 历史制作记录。当前版本见[欣然 v2 提示词](prompts-v2.md)与[人物卡](profile.md)。
+
 # 欣然人物参考图提示词
 
 生成方式：内置 imagegen，非 CLI。

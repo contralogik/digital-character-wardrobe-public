@@ -6,4 +6,5 @@
 - [蜜蜜](../../E-mimi/outfits/03-burgundy-ruffle/try-on-v1.png)
 
 欣然 v1 为发型修订前稿，最终使用 v2；其他四位使用 v1。
-完整输入对应与提示词存于 new-chat-2/output/character-tryon/manifest.json 和 prompts.md。
+
+服装原图仅在本机保存，当前公开版本保留生成换装作品与文字说明。
